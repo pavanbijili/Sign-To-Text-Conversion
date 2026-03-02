@@ -57,7 +57,7 @@ AI_AAC_Project/
 
 
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/AI_AAC_Project.git
+https://github.com/pavanbijili/Sign-To-Text-Conversion
 cd AI_AAC_Project
 
 
